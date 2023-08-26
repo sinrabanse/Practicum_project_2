@@ -22,26 +22,15 @@ My report will be assumed when building a credit score for a potential customer.
 The data is stored in the file credit_scoring_eng.csv
 
 ## Description of columns:
-'children' — the number of children in the family
-
-'days_employed' — how long the customer has been working
-
-'dob_years' — the customer’s age
-
-'education' — the customer’s education level
-
-'education_id' — identifier for the customer’s education
-
-'family_status' — the customer’s marital status
-
-'family_status_id' — identifier for the customer’s marital status
-
-'gender' — the customer’s gender
-
-'income_type' — the customer’s income type
-
-'debt' — whether the customer has ever defaulted on a loan
-
-'total_income' — monthly income
-
+'children' — the number of children in the family<br/>
+'days_employed' — how long the customer has been working<br/>
+'dob_years' — the customer’s age<br/>
+'education' — the customer’s education level<br/>
+'education_id' — identifier for the customer’s education<br/>
+'family_status' — the customer’s marital status<br/>
+'family_status_id' — identifier for the customer’s marital status<br/>
+'gender' — the customer’s gender<br/>
+'income_type' — the customer’s income type<br/>
+'debt' — whether the customer has ever defaulted on a loan<br/>
+'total_income' — monthly income<br/>
 'purpose' — reason for taking out a loan
