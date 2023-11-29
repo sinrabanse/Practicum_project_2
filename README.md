@@ -1,9 +1,9 @@
 # Practicum_project_2
-My second project from Practicum course
+My second project from Practicum course. "Data Preprocessing"
 
 What was used in the project: Python, Jupyter notebook. Libraries: pandas, nltk.
 
-Project Description
+# Project Description
 
 This project is to prepare a report for a bank’s loan division. I’ll need to find out if a customer’s marital status and number of children have an impact on whether they will default on a loan. The bank already has some data on customers’ credit worthiness.
 
